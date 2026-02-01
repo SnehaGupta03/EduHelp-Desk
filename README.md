@@ -23,3 +23,6 @@ EduHelp Desk is a digital campus help desk system that helps students raise quer
 
 # Developer
 Sneha Gupta
+
+# Demo Video
+https://drive.google.com/file/d/1j1x_hxaMoPWTLcnzvbSPN8DDD3KCY4PD/view?usp=sharing
