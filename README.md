@@ -20,3 +20,6 @@ EduHelp Desk is a digital campus help desk system that helps students raise quer
 - Chat support
 - Mobile application
 - Analytics dashboard
+
+# Developer
+Sneha Gupta
