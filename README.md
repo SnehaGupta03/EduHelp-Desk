@@ -14,7 +14,7 @@ EduHelp Desk is a digital campus help desk system that helps students raise quer
 - Database: Salesforce Objects / MySQL (as applicable)
 
 🔹 Project Objective
-To provide a centralized platform for students to easily communicate with campus authorities and track issue resolution.
+- To provide a centralized platform for students to easily communicate with campus authorities and track issue resolution.
 
 🔹 Future Enhancements
 - Chat support
